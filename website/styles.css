@@ -1,0 +1,35 @@
+
+body {
+	background: #e9ecef;
+	font-family: 'Vollkorn', sans-serif !important;
+}
+
+.navbar-brand {
+	color: #f8f9fa !important;
+	background-color: #10c412;
+	border-radius: 5px;
+	font-size: 30px;
+	padding: 12px;
+}
+
+.navbar {
+	padding-left:1.25rem;
+	padding-right: 1.25rem;
+	
+}
+
+.card {
+	margin: 1.25rem;
+}
+
+.img-fade {
+	margin: .1rem;
+}
+
+.comparison-link {
+	margin-left: 10rem;
+	margin-top: 1rem;
+	color: #000080;
+	text-decoration: none;
+}
+
